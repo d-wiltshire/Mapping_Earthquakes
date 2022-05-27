@@ -6,7 +6,7 @@ The goal of this exercise was to use JavaScript, D3.JSON, and Leaflet to plot ea
 The first deliverable involved plotting tectonic line data on the map. Using d3.json() and adding the data using the geoJSON() layer, the tectonic plate LineString data was added to the overlay object with the original earthquake data.
 
 ## Deliverable 2: Add Major Earthquake Data
-In the second deliverable, a second overlay object was added for major earthquake data. This overlay object was in addition to the original earthquake data, and the "major earthquakes" overlay layer included only earthquakes with a magnitude over 4.5. New colors were used to distinguish these major earthquakes from the others ( between 4.5 and 5.0, maroon; between 5.0 and 6.0, purple, and over 6.0, black). The magnitude was also reflected in the size of the circle marker, and a popup marker was added that displays the magnitude and location of the earthquake.
+In the second deliverable, a second overlay object was added for major earthquake data. This overlay object was in addition to the original earthquake data, and the "major earthquakes" overlay layer included only earthquakes with a magnitude over 4.5. New colors were used to distinguish these major earthquakes from the others (between 4.5 and 5.0, maroon; between 5.0 and 6.0, purple, and over 6.0, black). The magnitude was also reflected in the size of the circle marker, and a popup marker was added that displays the magnitude and location of the earthquake.
 
 ## Deliverable 3: Add an Additional Map
 The third deliverable involved adding a third base layer, "Dark," to the map (in addition to "Streets" and "Satellite").
